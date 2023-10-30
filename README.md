@@ -1,5 +1,6 @@
 # Official Releases of Keyda
 Keyda is a cute desktop pet that lives on your taskbar
+
 ![Image of Keyda on taskbar](https://github.com/HuskiGames/Keyda-Releases/blob/main/README-Files/image-on-taskbar.png)
 
 

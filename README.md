@@ -8,6 +8,7 @@ Keyda is a cute desktop pet that lives on your taskbar
 #### 23.10.20
 Whats New
 - added tray icon
+- added blinking
 - Made lines thicker
 - added look around animation
 - added look around animation2
